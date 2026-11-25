@@ -53,3 +53,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_&_IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Networking](https://img.shields.io/badge/Systems_&_Networking-1B1F23?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Eelprofesor14&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eelprofesor14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eelprofesor14&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Eelprofesor14&theme=tokyonight&hide_border=true)
+
+</div>
