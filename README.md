@@ -27,8 +27,8 @@
 
 | Area | Project / Competition | Highlights |
 | :--- | :--- | :--- |
-| **Agentic Web** | **Open Agentic Web Suite** | 3-app suite (*ForgeLink Workshop + Steel Supplier Peer*, *Agentic Spec Auditor*, *CivicMesh Portal*) built for the [Open Agentic Web Challenge](https://cognizant-agenticweb.devpost.com/) |
-| **LLMs & Agents** | **Google – The Gemma 4 Developer Agent** | Multi-tool ADK agent workflows and prompt budget optimization |
+| **Agentic Web** | [**Open Agentic Web Suite**](https://github.com/Eelprofesor14/open-agentic-web-suite) | 3-app suite (*ForgeLink Workshop + Steel Supplier Peer*, *Agentic Spec Auditor*, *CivicMesh Portal*) built for the [Open Agentic Web Challenge](https://cognizant-agenticweb.devpost.com/) |
+| **LLMs & Agents** | [**Gemma 4 Developer Agent Kit**](https://github.com/Eelprofesor14/gemma4-developer-agent-kit) | Multi-tool ADK agent workflows and prompt budget optimization |
 | **Optimization** | **Santa 2026 & Squares in Squares** | Combinatorial optimization & float64-safe geometric packing pipelines |
 | **Quantum & Smart Systems** | **Google Quantum AI & NeurIPS 2026 Smart Buildings** | Verified quantum circuit compilation & building energy modeling |
 | **Open Data** | **Published Kaggle Datasets** | [Global Energy Transition (2026)](https://www.kaggle.com/datasets/santiagozazo/global-energy-transition-data-2026-update) • [Global CO2 & GHG Emissions (2026)](https://www.kaggle.com/datasets/santiagozazo/global-co2-and-ghg-emissions-2026-release) • [Global Poverty & Inequality (OWID)](https://www.kaggle.com/datasets/santiagozazo/global-poverty-and-inequality-data-owid) |
